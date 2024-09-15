@@ -1,0 +1,725 @@
+Observation;N_Sp;Specie;Germination response ;Fruit type;Seed dispersal mechanism ;Seed storage behavior;Seed dormancy;Ecological guild of the species;Fruit width (cm) ;Fruit length (cm);Seed mass (g);Seed length (cm) ;Seed width (cm)
+1;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1.07;1.2;0.0746;0.71;0.85
+2;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.88;1.15;0.0746;0.71;0.85
+3;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.88;1.25;0.0746;0.71;0.85
+4;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1.03;1.5;0.0746;0.71;0.85
+5;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1.15;1.59;0.0746;0.71;0.85
+6;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.83;0.68;0.0746;0.71;0.85
+7;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.7;0.83;0.0746;0.71;0.85
+8;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.75;0.93;0.0746;0.71;0.85
+9;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.81;0.87;0.0746;0.71;0.85
+10;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.85;0.85;0.0746;0.71;0.85
+11;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.68;1.02;0.0746;0.71;0.85
+12;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.67;0.69;0.0746;0.71;0.85
+13;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.54;0.8;0.0746;0.71;0.85
+14;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.75;0.7;0.0746;0.71;0.85
+15;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.66;0.0746;0.71;0.85
+16;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.52;0.82;0.0746;0.71;0.85
+17;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.49;0.74;0.0746;0.71;0.85
+18;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.52;0.63;0.0746;0.71;0.85
+19;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.63;0.49;0.0746;0.71;0.85
+20;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.56;0.68;0.0746;0.71;0.85
+21;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.55;0.69;0.0746;0.71;0.85
+22;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.56;0.66;0.0746;0.71;0.85
+23;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.56;0.69;0.0746;0.71;0.85
+24;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.78;0.0746;0.71;0.85
+25;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.69;0.65;0.0746;0.71;0.85
+26;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.76;0.63;0.0746;0.71;0.85
+27;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.69;0.66;0.0746;0.71;0.85
+28;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.57;0.51;0.0746;0.71;0.85
+29;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.64;0.53;0.0746;0.71;0.85
+30;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.3;0.48;0.0746;0.71;0.85
+31;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.32;0.61;0.0746;0.71;0.85
+32;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.29;0.61;0.0746;0.71;0.85
+33;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.44;0.56;0.0746;0.71;0.85
+34;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.36;0.88;0.0746;0.71;0.85
+35;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.3;0.83;0.0746;0.71;0.85
+36;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.31;0.71;0.0746;0.71;0.85
+37;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.66;0.79;0.0746;0.71;0.85
+38;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.57;0.75;0.0746;0.71;0.85
+39;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.57;0.77;0.0746;0.71;0.85
+40;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.62;0.77;0.0746;0.71;0.85
+41;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.62;0.71;0.0746;0.71;0.85
+42;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.71;0.77;0.0746;0.71;0.85
+43;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.71;0.82;0.0746;0.71;0.85
+44;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.58;0.82;0.0746;0.71;0.85
+45;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.63;0.81;0.0746;0.71;0.85
+46;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.65;0.87;0.0746;0.71;0.85
+47;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.61;0.79;0.0746;0.71;0.85
+48;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.74;0.62;0.0746;0.71;0.85
+49;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.64;0.7;0.0746;0.71;0.85
+50;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.67;0.78;0.0746;0.71;0.85
+51;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.63;0.85;0.0746;0.71;0.85
+52;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.82;0.0746;0.71;0.85
+53;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.78;0.0746;0.71;0.85
+54;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.55;0.75;0.0746;0.71;0.85
+55;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.68;0.68;0.0746;0.71;0.85
+56;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.65;0.76;0.0746;0.71;0.85
+57;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.8;0.95;0.0746;0.71;0.85
+58;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.82;0.98;0.0746;0.71;0.85
+59;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.73;1.03;0.0746;0.71;0.85
+60;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.84;1;0.0746;0.71;0.85
+61;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1.06;0.91;0.0746;0.71;0.85
+62;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.83;1.14;0.0746;0.71;0.85
+63;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.79;1.16;0.0746;0.71;0.85
+64;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.71;1.01;0.0746;0.71;0.85
+65;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.8;0.95;0.0746;0.71;0.85
+66;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.73;0.95;0.0746;0.71;0.85
+67;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.74;0.89;0.0746;0.71;0.85
+68;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.84;1.04;0.0746;0.71;0.85
+69;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.9;1.06;0.0746;0.71;0.85
+70;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.81;0.92;0.0746;0.71;0.85
+71;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.88;1.09;0.0746;0.71;0.85
+72;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.86;1;0.0746;0.71;0.85
+73;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1;0.97;0.0746;0.71;0.85
+74;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.45;1.23;0.0746;0.71;0.85
+75;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.63;1.5;0.0746;0.71;0.85
+76;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.58;1.16;0.0746;0.71;0.85
+77;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;1.33;0.0746;0.71;0.85
+78;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.58;1.08;0.0746;0.71;0.85
+79;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.58;1.41;0.0746;0.71;0.85
+80;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.65;0.0746;0.71;0.85
+81;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.56;0.67;0.0746;0.71;0.85
+82;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.52;0.7;0.0746;0.71;0.85
+83;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.59;0.69;0.0746;0.71;0.85
+84;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.53;0.7;0.0746;0.71;0.85
+85;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.82;0.67;0.0746;0.71;0.85
+86;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.68;0.82;0.0746;0.71;0.85
+87;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.78;0.77;0.0746;0.71;0.85
+88;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.7;0.75;0.0746;0.71;0.85
+89;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.76;0.66;0.0746;0.71;0.85
+90;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.8;0.93;0.0746;0.71;0.85
+91;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.81;0.88;0.0746;0.71;0.85
+92;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.97;0.9;0.0746;0.71;0.85
+93;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.83;0.95;0.0746;0.71;0.85
+94;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.74;1;0.0746;0.71;0.85
+95;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.73;0.84;0.0746;0.71;0.85
+96;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.74;1.1;0.0746;0.71;0.85
+97;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.7;0.9;0.0746;0.71;0.85
+98;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.74;0.7;0.0746;0.71;0.85
+99;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.72;0.77;0.0746;0.71;0.85
+100;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.65;0.72;0.0746;0.71;0.85
+101;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.53;0.77;0.0746;0.71;0.85
+102;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;0.92;0.0746;0.71;0.85
+103;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.82;0.64;0.0746;0.71;0.85
+104;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.7;0.64;0.0746;0.71;0.85
+105;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.8;0.95;0.0746;0.71;0.85
+106;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.76;1;0.0746;0.71;0.85
+107;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;1;0.91;0.0746;0.71;0.85
+108;Sp1;Casearia corymbosa;Stimulated;Capsule;Zoochory;Recalcitrant;Non Dormant;Sciophyte;0.6;1;0.0746;0.71;0.85
+1;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.15;0.72;0.020;0.90;1.30
+2;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.19;0.74;0.020;0.90;1.30
+3;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.22;0.72;0.020;0.90;1.30
+4;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.64;0.020;0.90;1.30
+5;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.15;0.77;0.020;0.90;1.30
+6;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.14;0.72;0.020;0.90;1.30
+7;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.14;0.74;0.020;0.90;1.30
+8;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.72;0.020;0.90;1.30
+9;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.21;0.69;0.020;0.90;1.30
+10;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.14;0.77;0.020;0.90;1.30
+11;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.75;0.020;0.90;1.30
+12;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.12;0.82;0.020;0.90;1.30
+13;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.21;0.71;0.020;0.90;1.30
+14;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.69;0.020;0.90;1.30
+15;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.23;0.67;0.020;0.90;1.30
+16;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.63;0.020;0.90;1.30
+17;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.7;0.020;0.90;1.30
+18;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.18;0.54;0.020;0.90;1.30
+19;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.15;0.8;0.020;0.90;1.30
+20;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.21;0.66;0.020;0.90;1.30
+21;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.66;0.020;0.90;1.30
+22;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.17;0.6;0.020;0.90;1.30
+23;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.28;0.6;0.020;0.90;1.30
+24;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.28;0.7;0.020;0.90;1.30
+25;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.23;0.72;0.020;0.90;1.30
+26;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.25;0.72;0.020;0.90;1.30
+27;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.19;0.69;0.020;0.90;1.30
+28;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.25;0.7;0.020;0.90;1.30
+29;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.26;0.7;0.020;0.90;1.30
+30;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.24;0.53;0.020;0.90;1.30
+31;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.24;0.86;0.020;0.90;1.30
+32;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.22;0.85;0.020;0.90;1.30
+33;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.22;0.85;0.020;0.90;1.30
+34;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.22;0.88;0.020;0.90;1.30
+35;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.82;0.020;0.90;1.30
+36;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.78;0.020;0.90;1.30
+37;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.8;0.020;0.90;1.30
+38;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.2;0.76;0.020;0.90;1.30
+39;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.22;0.82;0.020;0.90;1.30
+40;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.82;0.020;0.90;1.30
+41;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.16;0.85;0.020;0.90;1.30
+42;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.14;0.78;0.020;0.90;1.30
+43;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.18;0.75;0.020;0.90;1.30
+44;Sp2;Cordia alliodora;Stimulated;Nut;Anemochory;Orthodox;Non Dormant;Heliophyte;0.21;0.79;0.020;0.90;1.30
+1;Sp3;Eugenia micrantha;Stimulated;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.6;1;;0.56;0.6
+1;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.83;2.57;0.087;2.87;3.50
+2;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;2.84;0.087;2.87;3.50
+3;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.17;0.087;2.87;3.50
+4;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.06;3.1;0.087;2.87;3.50
+5;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.96;3.08;0.087;2.87;3.50
+6;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.92;3.18;0.087;2.87;3.50
+7;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.04;3.25;0.087;2.87;3.50
+8;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.98;2.93;0.087;2.87;3.50
+9;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.06;2.85;0.087;2.87;3.50
+10;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.05;3.27;0.087;2.87;3.50
+11;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.99;3.19;0.087;2.87;3.50
+12;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.99;3.21;0.087;2.87;3.50
+13;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.82;2.9;0.087;2.87;3.50
+14;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.04;3;0.087;2.87;3.50
+15;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.72;0.087;2.87;3.50
+16;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;2.82;0.087;2.87;3.50
+17;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.83;3.13;0.087;2.87;3.50
+18;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.12;3.38;0.087;2.87;3.50
+19;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.99;3.5;0.087;2.87;3.50
+20;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.07;3.57;0.087;2.87;3.50
+21;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.06;0.087;2.87;3.50
+22;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;4.47;0.087;2.87;3.50
+23;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;4.09;0.087;2.87;3.50
+24;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.9;3.36;0.087;2.87;3.50
+25;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.8;3.72;0.087;2.87;3.50
+26;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.89;0.087;2.87;3.50
+27;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.94;4.41;0.087;2.87;3.50
+28;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;4.27;0.087;2.87;3.50
+29;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;4.23;0.087;2.87;3.50
+30;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;4.18;0.087;2.87;3.50
+31;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.99;4.19;0.087;2.87;3.50
+32;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.93;4.07;0.087;2.87;3.50
+33;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.95;4.14;0.087;2.87;3.50
+34;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.98;3.99;0.087;2.87;3.50
+35;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;4.13;0.087;2.87;3.50
+36;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.8;3.74;0.087;2.87;3.50
+37;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.96;4.09;0.087;2.87;3.50
+38;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.97;4.07;0.087;2.87;3.50
+39;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.83;3.92;0.087;2.87;3.50
+40;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.96;0.087;2.87;3.50
+41;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.88;3.49;0.087;2.87;3.50
+42;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.88;3.66;0.087;2.87;3.50
+43;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.93;3.28;0.087;2.87;3.50
+44;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.83;3.32;0.087;2.87;3.50
+45;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.96;3.26;0.087;2.87;3.50
+46;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.12;0.087;2.87;3.50
+47;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.99;3.29;0.087;2.87;3.50
+48;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1.08;3.25;0.087;2.87;3.50
+49;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.97;3.67;0.087;2.87;3.50
+50;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.92;4.02;0.087;2.87;3.50
+51;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.97;0.087;2.87;3.50
+52;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;4.02;0.087;2.87;3.50
+53;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.96;3.65;0.087;2.87;3.50
+54;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.94;3.3;0.087;2.87;3.50
+55;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.93;4.07;0.087;2.87;3.50
+56;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;3.49;0.087;2.87;3.50
+57;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.75;4.14;0.087;2.87;3.50
+58;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;1;4;0.087;2.87;3.50
+59;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.92;3.29;0.087;2.87;3.50
+60;Sp4;Machaerium capote;Stimulated;Legume;Anemochory;Orthodox;Non Dormant;Sciophyte;0.91;3.66;0.087;2.87;3.50
+1;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.31;1.14;0.023;0.29;1.11
+2;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.37;1.23;0.023;0.29;1.11
+3;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.32;1.18;0.023;0.29;1.11
+4;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.25;1.07;0.023;0.29;1.11
+5;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.24;1.03;0.023;0.29;1.11
+6;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.26;1.09;0.023;0.29;1.11
+7;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.26;1.17;0.023;0.29;1.11
+8;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.24;1.09;0.023;0.29;1.11
+9;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.32;1.16;0.023;0.29;1.11
+10;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.3;1.18;0.023;0.29;1.11
+11;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.31;1.15;0.023;0.29;1.11
+12;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.36;1.12;0.023;0.29;1.11
+13;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.37;1.25;0.023;0.29;1.11
+14;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.25;1.22;0.023;0.29;1.11
+15;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.36;1.13;0.023;0.29;1.11
+16;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.32;1.06;0.023;0.29;1.11
+17;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.36;1.07;0.023;0.29;1.11
+18;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.29;1.18;0.023;0.29;1.11
+19;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.33;1.14;0.023;0.29;1.11
+20;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.26;1.23;0.023;0.29;1.11
+21;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.25;1;0.023;0.29;1.11
+22;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.27;1.14;0.023;0.29;1.11
+23;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.28;1.12;0.023;0.29;1.11
+24;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.36;1.13;0.023;0.29;1.11
+25;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.3;1.16;0.023;0.29;1.11
+26;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.26;1.08;0.023;0.29;1.11
+27;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.34;1.05;0.023;0.29;1.11
+28;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.25;1.29;0.023;0.29;1.11
+29;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.32;1.21;0.023;0.29;1.11
+30;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.27;1.2;0.023;0.29;1.11
+31;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.36;1;0.023;0.29;1.11
+32;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.29;1.27;0.023;0.29;1.11
+33;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.23;0.67;0.023;0.29;1.11
+34;Sp5;Astronium graveolens;Tolerant;Drupe;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.28;1.25;0.023;0.29;1.11
+1;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.3;11.9;0.726;0.471;0.742
+2;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;12;0.726;0.441;0.685
+3;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;10.6;0.726;0.415;0.719
+4;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.2;11.6;0.726;0.49;0.689
+5;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1;12.1;0.726;0.476;0.664
+6;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.2;8.4;0.726;0.432;0.668
+7;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1;9.6;0.726;0.452;0.673
+8;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;10.5;0.726;0.448;0.651
+9;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;11;0.726;0.406;0.687
+10;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;0.9;10;0.726;0.487;0.683
+11;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;7.3;0.726;0.376;0.693
+12;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;0.8;10.4;0.726;0.413;0.527
+13;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;0.9;11.7;0.726;0.467;0.685
+14;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.2;12;0.726;0.443;0.637
+15;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.3;15;0.726;0.483;0.654
+16;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1;18;0.726;0.47;0.668
+17;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1;12;0.726;0.473;0.689
+18;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;0.8;13;0.726;0.484;0.683
+19;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;14;0.726;0.425;0.644
+20;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;15;0.726;0.462;0.668
+21;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.2;11.5;0.726;0.514;0.741
+22;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1;12.8;0.726;0.428;0.659
+23;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.1;13.6;0.726;0.416;0.648
+24;Sp7;Chloroleucon mangense;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.2;15;0.726;0.528;0.685
+1;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;2.1;0.36;0.63;0.78
+2;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.9;0.36;0.63;0.78
+3;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.5;0.36;0.63;0.78
+4;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.7;0.36;0.63;0.78
+5;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;1.8;0.36;0.63;0.78
+6;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.6;0.36;0.63;0.78
+7;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.6;0.36;0.63;0.78
+8;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;2;0.36;0.63;0.78
+9;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.5;0.36;0.63;0.78
+10;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.5;0.36;0.63;0.78
+11;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.5;0.36;0.63;0.78
+12;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.6;0.36;0.63;0.78
+13;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1.8;0.36;0.63;0.78
+14;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1.7;0.36;0.63;0.78
+15;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.3;1.6;0.36;0.63;0.78
+16;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.6;0.36;0.63;0.78
+17;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.7;0.36;0.63;0.78
+18;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.4;0.36;0.63;0.78
+19;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1.6;0.36;0.63;0.78
+20;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.5;0.36;0.63;0.78
+21;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.5;0.36;0.63;0.78
+22;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.5;0.36;0.63;0.78
+23;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.4;0.36;0.63;0.78
+24;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.5;0.36;0.63;0.78
+25;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.4;0.36;0.63;0.78
+26;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.6;0.36;0.63;0.78
+27;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.8;0.36;0.63;0.78
+28;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.6;0.36;0.63;0.78
+29;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.7;0.36;0.63;0.78
+30;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.4;0.36;0.63;0.78
+31;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.9;0.36;0.63;0.78
+32;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.5;0.36;0.63;0.78
+33;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.3;0.36;0.63;0.78
+34;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.6;0.36;0.63;0.78
+35;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.6;0.36;0.63;0.78
+36;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.7;0.36;0.63;0.78
+37;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.8;0.36;0.63;0.78
+38;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.6;0.36;0.63;0.78
+39;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.6;0.36;0.63;0.78
+40;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.7;0.36;0.63;0.78
+41;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.6;0.36;0.63;0.78
+42;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.9;0.36;0.63;0.78
+43;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.7;0.36;0.63;0.78
+44;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;2.2;0.36;0.63;0.78
+45;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.7;0.36;0.63;0.78
+46;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.6;0.36;0.63;0.78
+47;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.8;0.36;0.63;0.78
+48;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.6;0.36;0.63;0.78
+49;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.5;0.36;0.63;0.78
+50;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.4;0.36;0.63;0.78
+51;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.6;0.36;0.63;0.78
+52;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.7;0.36;0.63;0.78
+53;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.6;0.36;0.63;0.78
+54;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.6;0.36;0.63;0.78
+55;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.2;1.6;0.36;0.63;0.78
+56;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.6;0.36;0.63;0.78
+57;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.8;0.36;0.63;0.78
+58;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.5;0.36;0.63;0.78
+59;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.4;0.36;0.63;0.78
+60;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.4;0.36;0.63;0.78
+61;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.5;0.36;0.63;0.78
+62;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.6;0.36;0.63;0.78
+63;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.3;0.36;0.63;0.78
+64;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.8;0.36;0.63;0.78
+65;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.7;0.36;0.63;0.78
+66;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;2.1;0.36;0.63;0.78
+67;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.6;0.36;0.63;0.78
+68;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.7;0.36;0.63;0.78
+69;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.9;0.36;0.63;0.78
+70;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.2;0.36;0.63;0.78
+71;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;0.9;0.36;0.63;0.78
+72;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.3;0.36;0.63;0.78
+73;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1;0.36;0.63;0.78
+74;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.1;0.36;0.63;0.78
+75;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1;0.36;0.63;0.78
+76;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;0.9;0.36;0.63;0.78
+77;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1;0.36;0.63;0.78
+78;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;0.8;0.36;0.63;0.78
+79;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;0.8;0.36;0.63;0.78
+80;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1;0.36;0.63;0.78
+81;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.1;0.36;0.63;0.78
+82;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.2;1.6;0.36;0.63;0.78
+83;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.7;0.36;0.63;0.78
+84;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.3;0.36;0.63;0.78
+85;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.5;1.4;0.36;0.63;0.78
+86;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.6;0.36;0.63;0.78
+87;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;0.6;0.36;0.63;0.78
+88;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.2;1.1;0.36;0.63;0.78
+89;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;0.8;0.36;0.63;0.78
+90;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.2;0.8;0.36;0.63;0.78
+91;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;0.9;0.36;0.63;0.78
+92;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;0.8;0.36;0.63;0.78
+93;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;0.7;0.36;0.63;0.78
+94;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;0.7;0.36;0.63;0.78
+95;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;0.7;0.36;0.63;0.78
+96;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;0.5;0.36;0.63;0.78
+97;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.1;0.36;0.63;0.78
+98;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.5;0.36;0.63;0.78
+99;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;2.1;0.36;0.63;0.78
+100;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.3;0.36;0.63;0.78
+101;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.35;1.17;0.36;0.63;0.78
+102;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.54;1.27;0.36;0.63;0.78
+103;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.38;0.9;0.36;0.63;0.78
+104;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.55;1.41;0.36;0.63;0.78
+105;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.33;1.22;0.36;0.63;0.78
+106;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.26;1.57;0.36;0.63;0.78
+107;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.62;1.22;0.36;0.63;0.78
+108;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.43;1.59;0.36;0.63;0.78
+109;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.55;0.36;0.63;0.78
+110;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.55;1.53;0.36;0.63;0.78
+111;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.16;1.77;0.36;0.63;0.78
+112;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.96;0.36;0.63;0.78
+113;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.35;1.62;0.36;0.63;0.78
+114;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.3;1.19;0.36;0.63;0.78
+115;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.24;1.25;0.36;0.63;0.78
+116;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.95;1.18;0.36;0.63;0.78
+117;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.9;1.33;0.36;0.63;0.78
+118;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.21;1.32;0.36;0.63;0.78
+119;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.05;1.44;0.36;0.63;0.78
+120;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.98;1.5;0.36;0.63;0.78
+121;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.08;1.28;0.36;0.63;0.78
+122;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.23;1.37;0.36;0.63;0.78
+123;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.27;0.92;0.36;0.63;0.78
+124;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.01;1.12;0.36;0.63;0.78
+125;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.88;0.8;0.36;0.63;0.78
+126;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.73;1.56;0.36;0.63;0.78
+127;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.67;1.47;0.36;0.63;0.78
+128;Sp8;Cupania latifolia ;Tolerant;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.51;0.36;0.63;0.78
+1;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.5;9.4;6.766;0.878;1.532
+2;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.9;9.5;6.766;0.407;0.775
+3;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;6;12;6.766;0.778;1.716
+4;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.6;10;6.766;0.941;1.823
+5;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5;9.8;6.766;0.786;1.514
+6;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.5;7;6.766;0.889;1.601
+7;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;12;11;6.766;0.854;1.57
+8;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;12.5;10.5;6.766;0.859;1.695
+9;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;11.2;9.9;6.766;0.763;1.478
+10;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;6;7.6;6.766;0.816;1.639
+11;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;6.5;5.5;6.766;0.905;1.7
+12;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.9;12.7;6.766;0.849;1.701
+13;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.5;15;6.766;0.876;1.597
+14;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.5;10;6.766;0.848;1.725
+15;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5;9.5;6.766;0.879;1.531
+16;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;6;9;6.766;0.838;1.554
+17;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.9;8;6.766;0.822;1.66
+18;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;5.4;11.8;6.766;0.793;1.474
+19;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;4.5;10;6.766;0.78;1.459
+20;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;6.5;9.5;6.766;0.948;1.671
+21;Sp9;Enterolobium cyclocarpum;Tolerant;Legume;Zoochory;Orthodox;Dormant;Heliophyte;7;9.1;6.766;0.825;1.503
+1;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.3;0.4;;0.11;0.14
+2;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.3;0.3;;0.11;0.14
+3;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.3;0.4;;0.11;0.14
+4;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.46;0.53;;0.11;0.14
+5;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.53;0.6;;0.11;0.14
+6;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.57;0.64;;0.11;0.14
+7;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.59;0.5;;0.11;0.14
+8;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.4;0.58;;0.11;0.14
+9;Sp10;Eugenia procera;Tolerant;Berry;Zoochory;Recalcitrant;Dormant;Heliophyte;0.45;0.6;;0.11;0.14
+1;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.9;14.1;0.040;0.551;0.967
+2;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.4;13;0.040;0.541;0.970
+3;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;13.5;0.040;0.558;0.929
+4;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.1;14.2;0.040;0.585;1.007
+5;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.2;18.5;0.040;0.565;0.960
+6;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.3;18;0.040;0.490;0.936
+7;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;15.5;0.040;0.544;0.943
+8;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.4;14.8;0.040;0.517;0.874
+9;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;3.3;14.5;0.040;0.531;0.942
+10;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;3.5;14;0.040;0.547;0.898
+11;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;3.6;15;0.040;0.514;1.051
+12;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.5;15.5;0.040;0.540;0.919
+13;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.6;13.8;0.040;0.534;1.035
+14;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.7;10.5;0.040;0.514;0.864
+15;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.6;15;0.040;0.527;0.929
+16;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.5;12.5;0.040;0.595;1.075
+17;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.6;12;0.040;0.493;1.037
+18;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.3;14;0.040;0.537;0.956
+19;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.4;14.5;0.040;0.558;0.991
+20;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;15;0.040;0.565;0.936
+21;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.1;15.6;0.040;0.480;0.936
+22;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.1;13.8;0.040;0.449;0.864
+23;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;13;0.040;0.531;0.969
+24;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.8;14;0.040;0.558;0.973
+25;Sp11;Pseudosamanea guachapele;Tolerant;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.8;14.2;0.040;0.449;0.799
+1;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.10;14.00;;1.58;2.14
+2;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;13.00;;1.58;2.14
+3;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.20;10.00;;1.58;2.14
+4;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.10;14.50;;1.58;2.14
+5;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.30;9.00;;1.58;2.14
+6;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.10;17.80;;1.58;2.14
+7;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;15.00;;1.58;2.14
+8;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;24.00;;1.58;2.14
+9;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;30.00;;1.58;2.14
+10;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.90;20.00;;1.58;2.14
+11;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;16.00;;1.58;2.14
+12;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;15.00;;1.58;2.14
+13;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.90;17.00;;1.58;2.14
+14;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;18.00;;1.58;2.14
+15;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;16.00;;1.58;2.14
+16;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.30;18.50;;1.58;2.14
+17;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;11.00;;1.58;2.14
+18;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.60;15.50;;1.58;2.14
+19;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;16.70;;1.58;2.14
+20;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;22.00;;1.58;2.14
+21;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;30.00;;1.58;2.14
+22;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.60;21.00;;1.58;2.14
+23;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.40;22.50;;1.58;2.14
+24;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;22.00;;1.58;2.14
+25;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;24.00;;1.58;2.14
+26;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.50;17.00;;1.58;2.14
+27;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;16.00;;1.58;2.14
+28;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;9.00;;1.58;2.14
+29;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.50;10.00;;1.58;2.14
+30;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.50;13.00;;1.58;2.14
+31;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;13.00;;1.58;2.14
+32;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;12.00;;1.58;2.14
+33;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.00;15.00;;1.58;2.14
+34;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;16.00;;1.58;2.14
+35;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.90;9.80;;1.58;2.14
+36;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;9.00;;1.58;2.14
+37;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;10.00;;1.58;2.14
+38;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;12.60;;1.58;2.14
+39;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;13.90;;1.58;2.14
+40;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.30;14.00;;1.58;2.14
+41;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;12.80;;1.58;2.14
+42;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;11.70;;1.58;2.14
+43;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.20;9.30;;1.58;2.14
+44;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.40;13.00;;1.58;2.14
+45;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;14.60;;1.58;2.14
+46;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.40;15.00;;1.58;2.14
+47;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;15.40;;1.58;2.14
+48;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.00;10.00;;1.58;2.14
+49;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.90;10.30;;1.58;2.14
+50;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;15.00;;1.58;2.14
+51;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.40;15.60;;1.58;2.14
+52;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;15.50;;1.58;2.14
+53;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.50;15.40;;1.58;2.14
+54;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;19.80;;1.58;2.14
+55;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;20.00;;1.58;2.14
+56;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.20;17.80;;1.58;2.14
+57;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.00;21.00;;1.58;2.14
+58;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.00;19.40;;1.58;2.14
+59;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;21.10;;1.58;2.14
+60;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.10;19.30;;1.58;2.14
+61;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;19.60;;1.58;2.14
+62;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.30;15.00;;1.58;2.14
+63;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.00;15.30;;1.58;2.14
+64;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.40;10.30;;1.58;2.14
+65;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;10.00;;1.58;2.14
+66;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.60;8.80;;1.58;2.14
+67;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.50;15.30;;1.58;2.14
+68;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.20;10.00;;1.58;2.14
+69;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;21.00;;1.58;2.14
+70;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;9.00;;1.58;2.14
+71;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;13.70;;1.58;2.14
+72;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.90;14.80;;1.58;2.14
+73;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;15.00;;1.58;2.14
+74;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.70;7.60;;1.58;2.14
+75;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.30;16.00;;1.58;2.14
+76;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;2.10;15.40;;1.58;2.14
+77;Sp12;Swartzia trianae;Tolerant;Legume;Zoochory;Recalcitrant;Dormant;Sciophyte;1.80;15.40;;1.58;2.14
+1;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3.6;1.797;0.4;0.7
+2;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.7;1.797;0.4;0.7
+3;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.5;1.797;0.4;0.7
+4;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3.8;1.797;0.4;0.7
+5;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4;1.797;0.4;0.7
+6;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;3.9;1.797;0.4;0.7
+7;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.8;1.797;0.4;0.7
+8;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;4.2;1.797;0.4;0.7
+9;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;4.4;1.797;0.4;0.7
+10;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4.3;1.797;0.4;0.7
+11;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4;1.797;0.4;0.7
+12;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;4.3;1.797;0.4;0.7
+13;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;4.4;1.797;0.4;0.7
+14;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;4.1;1.797;0.4;0.7
+15;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.7;1.797;0.4;0.7
+16;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;4.2;1.797;0.4;0.7
+17;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.9;1.797;0.4;0.7
+18;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4;1.797;0.4;0.7
+19;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4.1;1.797;0.4;0.7
+20;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;4.2;1.797;0.4;0.7
+21;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3.6;1.797;0.4;0.7
+22;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;1.1;4;1.797;0.4;0.7
+23;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;1.2;6;1.797;0.4;0.7
+24;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;5.5;1.797;0.4;0.7
+25;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;5.3;1.797;0.4;0.7
+26;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;4;1.797;0.4;0.7
+27;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;5.9;1.797;0.4;0.7
+28;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.5;1.797;0.4;0.7
+29;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4.5;1.797;0.4;0.7
+30;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.5;1.797;0.4;0.7
+31;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;3.1;1.797;0.4;0.7
+32;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;2.7;1.797;0.4;0.7
+33;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.3;2.9;1.797;0.4;0.7
+34;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;3.2;1.797;0.4;0.7
+35;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;4.2;1.797;0.4;0.7
+36;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;4;1.797;0.4;0.7
+37;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;4.1;1.797;0.4;0.7
+38;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;4.2;1.797;0.4;0.7
+39;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.9;1.797;0.4;0.7
+40;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3.1;1.797;0.4;0.7
+41;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.6;1.797;0.4;0.7
+42;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3.1;1.797;0.4;0.7
+43;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.2;1.797;0.4;0.7
+44;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;4.1;1.797;0.4;0.7
+45;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;4.3;1.797;0.4;0.7
+46;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;4.1;1.797;0.4;0.7
+47;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;3.6;1.797;0.4;0.7
+48;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;4.1;1.797;0.4;0.7
+49;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;2.5;1.797;0.4;0.7
+50;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.3;1.797;0.4;0.7
+51;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.6;1.797;0.4;0.7
+52;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;1.7;1.797;0.4;0.7
+53;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2.3;1.797;0.4;0.7
+54;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.2;1.797;0.4;0.7
+55;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.2;1.797;0.4;0.7
+56;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.4;1.797;0.4;0.7
+57;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;1.8;1.797;0.4;0.7
+58;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;2.4;1.797;0.4;0.7
+59;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.6;1.797;0.4;0.7
+60;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.4;1.797;0.4;0.7
+61;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;2.7;1.797;0.4;0.7
+62;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2.6;1.797;0.4;0.7
+63;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.9;1.797;0.4;0.7
+64;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;3;1.797;0.4;0.7
+65;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.8;1.797;0.4;0.7
+66;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;2.7;1.797;0.4;0.7
+67;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.3;1.797;0.4;0.7
+68;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;2.4;1.797;0.4;0.7
+69;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;2.8;1.797;0.4;0.7
+70;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2.9;1.797;0.4;0.7
+71;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2.5;1.797;0.4;0.7
+72;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;2.9;1.797;0.4;0.7
+73;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3;1.797;0.4;0.7
+74;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3;1.797;0.4;0.7
+75;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;4.2;1.797;0.4;0.7
+76;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.4;4.2;1.797;0.4;0.7
+77;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2.6;1.797;0.4;0.7
+78;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.6;1.797;0.4;0.7
+79;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.9;1.797;0.4;0.7
+80;Sp13;Triplaris americana;Tolerant;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;4;1.797;0.4;0.7
+1;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.7;8.3;0.025;0.80;0.90
+2;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.6;12.8;0.025;0.80;0.90
+3;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.7;13;0.025;0.80;0.90
+4;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.5;11;0.025;0.80;0.90
+5;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;11.5;0.025;0.80;0.90
+6;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2.1;13.5;0.025;0.80;0.90
+7;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.9;14;0.025;0.80;0.90
+8;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.5;14.5;0.025;0.80;0.90
+9;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;2;13.6;0.025;0.80;0.90
+10;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.8;13.7;0.025;0.80;0.90
+11;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.6;12.8;0.025;0.80;0.90
+12;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.7;12;0.025;0.80;0.90
+13;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.5;10.7;0.025;0.80;0.90
+14;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.3;13.3;0.025;0.80;0.90
+15;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.6;14.8;0.025;0.80;0.90
+16;Sp14;Albizia niopoides;Sensitive;Legume;Anemochory;Orthodox;Dormant;Heliophyte;1.5;14;0.025;0.80;0.90
+1;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.8;3;0.51;0.8;1.1
+2;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.5;2.2;0.51;0.8;1.1
+3;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.6;2.5;0.51;0.8;1.1
+4;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.7;2.8;0.51;0.8;1.1
+5;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;2.6;0.51;0.8;1.1
+6;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.2;0.51;0.8;1.1
+7;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1;0.51;0.8;1.1
+8;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;0.9;0.51;0.8;1.1
+9;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.8;1.2;0.51;0.8;1.1
+10;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.5;0.51;0.8;1.1
+11;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.6;0.51;0.8;1.1
+12;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.2;1.2;0.51;0.8;1.1
+13;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1;0.51;0.8;1.1
+14;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;1.2;0.51;0.8;1.1
+15;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.3;0.51;0.8;1.1
+16;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.2;1.4;0.51;0.8;1.1
+17;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.3;0.51;0.8;1.1
+18;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;1.3;0.51;0.8;1.1
+19;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.8;1.1;0.51;0.8;1.1
+20;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;1.4;0.51;0.8;1.1
+21;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.9;1.6;0.51;0.8;1.1
+22;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.2;1.2;0.51;0.8;1.1
+23;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.3;0.51;0.8;1.1
+24;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.2;1.5;0.51;0.8;1.1
+25;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.3;0.51;0.8;1.1
+26;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.6;0.51;0.8;1.1
+27;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1;0.51;0.8;1.1
+28;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;1.1;0.51;0.8;1.1
+29;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;1.3;0.51;0.8;1.1
+30;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.5;0.51;0.8;1.1
+31;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.6;0.51;0.8;1.1
+32;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.4;0.51;0.8;1.1
+33;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.5;0.51;0.8;1.1
+34;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;1.4;0.51;0.8;1.1
+35;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.1;1.3;0.51;0.8;1.1
+36;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.6;0.51;0.8;1.1
+37;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;1.4;0.51;0.8;1.1
+38;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2;1.5;0.51;0.8;1.1
+39;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1.5;0.51;0.8;1.1
+40;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.4;0.51;0.8;1.1
+41;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.8;2.1;0.51;0.8;1.1
+42;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.7;0.51;0.8;1.1
+43;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;2;0.51;0.8;1.1
+44;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;2.1;0.51;0.8;1.1
+45;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;1.9;0.51;0.8;1.1
+46;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.9;2.2;0.51;0.8;1.1
+47;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;2.3;0.51;0.8;1.1
+48;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;2;0.51;0.8;1.1
+49;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.9;0.51;0.8;1.1
+50;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1;0.51;0.8;1.1
+51;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.1;0.51;0.8;1.1
+52;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.3;0.51;0.8;1.1
+53;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.3;1.2;0.51;0.8;1.1
+54;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.6;1.8;0.51;0.8;1.1
+55;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.7;0.51;0.8;1.1
+56;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.2;0.51;0.8;1.1
+57;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.5;1.3;0.51;0.8;1.1
+58;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.4;1.1;0.51;0.8;1.1
+59;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;2.1;1;0.51;0.8;1.1
+60;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.7;1.5;0.51;0.8;1.1
+61;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.13;1.27;0.51;0.8;1.1
+62;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.91;1.24;0.51;0.8;1.1
+63;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.14;1.25;0.51;0.8;1.1
+64;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1;1.31;0.51;0.8;1.1
+65;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;0.97;1.71;0.51;0.8;1.1
+66;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.19;1.28;0.51;0.8;1.1
+67;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.36;1.28;0.51;0.8;1.1
+68;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.68;1.12;0.51;0.8;1.1
+69;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.61;1.27;0.51;0.8;1.1
+70;Sp15;Cupania cinerea;Sensitive;Capsule;Zoochory;Recalcitrant;Dormant;Heliophyte;1.22;1.27;0.51;0.8;1.1
+1;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.5;11.6;0.879;0.5;0.6
+2;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;11.2;0.879;0.6;0.5
+3;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.5;10.5;0.879;0.7;0.7
+4;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;10.3;0.879;0.5;0.5
+5;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;9.4;0.879;0.6;0.4
+6;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;11.1;0.879;0.7;0.4
+7;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.3;13;0.879;0.6;0.5
+8;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.3;12;0.879;0.6;0.6
+9;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.4;12.8;0.879;0.7;0.7
+10;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.7;11.7;0.879;0.5;0.5
+11;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.5;11;0.879;0.4;0.4
+12;Sp16;Piptadenia uliginosa;Sensitive;Legume;Zoochory;Orthodox;Dormant;Heliophyte;1.7;12;0.879;0.3;0.5
+1;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;5.5;2.08;0.7;1.1
+2;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;5;2.08;0.7;1.1
+3;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;4.8;2.08;0.7;1.1
+4;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;1.1;4.9;2.08;0.7;1.1
+5;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;1;4.7;2.08;0.7;1.1
+6;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;5.2;2.08;0.7;1.1
+7;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.8;5.6;2.08;0.7;1.1
+8;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.7;4;2.08;0.7;1.1
+9;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.9;3.5;2.08;0.7;1.1
+10;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3;2.08;0.7;1.1
+11;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.8;2.08;0.7;1.1
+12;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.6;2.5;2.08;0.7;1.1
+13;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;2;2.08;0.7;1.1
+14;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;0.5;3.5;2.08;0.7;1.1
+15;Sp18;Triplaris melaenodendron;Sensitive;Achene;Anemochory;Recalcitrant;Non Dormant;Heliophyte;1.1;5;2.08;0.7;1.1
